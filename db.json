@@ -1,0 +1,60 @@
+{
+  "person": [
+    {
+        "id": 1,
+        "birth_city": 1,
+        "birth_country": 1,
+        "birth_state": 1,
+        "home_address": 1,
+
+
+        "birth_date": "23/23/2322",
+        "cpf_cnpj": "123123123123",
+        "father_name": "John Doe Father",
+        "full_name": "John Doe",
+        "is_father_unknown": true,
+        "mailing_address_type": 1,
+        "marital_status": "não gosto de gente",
+        "marital_name": "solitário",
+        "nationality": "brasileiro",
+        "nationality_other": "não sei",
+        "partner_name": "Mary Doe",
+        "sex": "male"
+    }
+  ],
+  "country": [
+    {
+      "id": 1,
+      "cetip_code": 123123,
+      "name": "Brasil"
+    }
+  ],
+  "city": [
+	{
+		"id": 1,
+		"state": 1,
+		"cetip_code": 123123,
+		"name": "Niterói"
+	}
+  ],
+  "state": [
+  	{
+		"id": 1,
+		"name": "Rio de Janeiro",
+		"uf": "RJ"
+	}
+  ],
+  "address": [
+  	{
+		"id": 1,
+		"address": "Rua Bambina",
+		"address_complement": "sobrado",
+		"address_number": "32",
+		"city": "Buenos Aires",
+		"country": "Argentina",
+		"neighborhood": "Villa Crespo",
+		"state": "Ciudad Autonoma de Buenos Aires",
+		"zip_code": "123.2323-300"
+	}
+  ]
+}
