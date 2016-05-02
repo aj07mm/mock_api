@@ -256,5 +256,28 @@
       "id": 1,
       "name": "FNE"
     }
+  ],
+  "professional-occupation": [
+    {
+      "id": 1,
+      "allow_empty": true,
+      "cetip_code": 123123,
+      "name": "Encanador",
+      "weight": 1
+    },
+    {
+      "id": 2,
+      "allow_empty": true,
+      "cetip_code": 123111,
+      "name": "Advogado",
+      "weight": 1
+    },
+    {
+      "id": 3,
+      "allow_empty": false,
+      "cetip_code": 123222,
+      "name": "Técnico em TI",
+      "weight": 1
+    }
   ]
 }
