@@ -171,6 +171,18 @@
       "nationality_other": false,
       "sex": "female",
       "id": 13
+    },
+    {
+      "birth_country": 2,
+      "birth_state": 2,
+      "birth_date": "2016-05-02",
+      "cpf_cnpj": "123.123.123-12",
+      "father_name": "asdasd",
+      "full_name": "asdasd",
+      "marital_status": 3,
+      "nationality_other": true,
+      "sex": "male",
+      "id": 14
     }
   ],
   "country": [
@@ -243,6 +255,23 @@
       "expiration_date": "23-23-1991",
       "has_no_expiration_date": true,
       "issue_date": "23-23-1991"
+    },
+    {
+      "identification_document_issuer": "detran",
+      "identification_document_type": "cnh",
+      "person": {
+        "birth_country": 2,
+        "birth_state": 2,
+        "birth_date": "2016-05-02",
+        "cpf_cnpj": "123.123.123-12",
+        "father_name": "asdasd",
+        "full_name": "asdasd",
+        "marital_status": 3,
+        "nationality_other": true,
+        "sex": "male"
+      },
+      "document_number": 123,
+      "id": 2
     }
   ],
   "identification-document-issuer": [
@@ -278,6 +307,17 @@
       "cetip_code": 123222,
       "name": "Técnico em TI",
       "weight": 1
+    }
+  ],
+  "get-address": [
+    {
+      "street": "RUA MINISTRO OTÁVIO KELLY",
+      "number": "43",
+      "complement": "- lado ímpar",
+      "neighbourhood": "ICARAÍ",
+      "country": 1,
+      "state": 1,
+      "city": 1
     }
   ]
 }
