@@ -183,6 +183,1003 @@
       "nationality_other": true,
       "sex": "male",
       "id": 14
+    },
+    {
+      "_schema": {
+        "_schema": {
+          "birthCity": {
+            "type": "integer",
+            "apiField": "birth_city"
+          },
+          "birthCountry": {
+            "type": "integer",
+            "apiField": "birth_country"
+          },
+          "birthState": {
+            "type": "integer",
+            "apiField": "birth_state"
+          },
+          "homeAddress": {
+            "type": "integer",
+            "apiField": "home_address"
+          },
+          "birthDate": {
+            "type": "date",
+            "apiField": "birth_date"
+          },
+          "cpfCnpj": {
+            "type": "string",
+            "apiField": "cpf_cnpj"
+          },
+          "fatherName": {
+            "type": "string",
+            "apiField": "father_name"
+          },
+          "fullName": {
+            "type": "string",
+            "apiField": "full_name"
+          },
+          "isFatherUnknown": {
+            "type": "string",
+            "apiField": "is_father_unknown"
+          },
+          "mailingAddressType": {
+            "type": "string",
+            "apiField": "mailing_address_type"
+          },
+          "maritalStatus": {
+            "type": "string",
+            "apiField": "marital_status"
+          },
+          "maritalName": {
+            "type": "string",
+            "apiField": "marital_name"
+          },
+          "nationality": {
+            "type": "string",
+            "apiField": "nationality"
+          },
+          "nationalityOther": {
+            "type": "string",
+            "apiField": "nationality_other"
+          },
+          "partnerName": {
+            "type": "string",
+            "apiField": "partner_name"
+          },
+          "sex": {
+            "type": "string",
+            "apiField": "sex"
+          }
+        }
+      },
+      "_service": null,
+      "professionalOccupation": 2,
+      "homeAddress": {
+        "_schema": {
+          "_schema": {
+            "id": {
+              "type": "integer",
+              "apiField": "id"
+            },
+            "address": {
+              "type": "string",
+              "apiField": "address"
+            },
+            "addressComplement": {
+              "type": "string",
+              "apiField": "address_complement"
+            },
+            "addressNumber": {
+              "type": "string",
+              "apiField": "address_number"
+            },
+            "city": {
+              "type": "string",
+              "apiField": "city"
+            },
+            "country": {
+              "type": "string",
+              "apiField": "country"
+            },
+            "neighborhood": {
+              "type": "string",
+              "apiField": "neighborhood"
+            },
+            "state": {
+              "type": "string",
+              "apiField": "state"
+            },
+            "zip_code": {
+              "type": "string",
+              "apiField": "zip_code"
+            }
+          }
+        },
+        "_service": null,
+        "_data": {
+          "address": "RUA MINISTRO OTÁVIO KELLY",
+          "address_complement": "- lado ímpar",
+          "address_number": 43,
+          "city": 1,
+          "country": 1,
+          "state": 1,
+          "id": 3
+        },
+        "id": 3,
+        "address": "RUA MINISTRO OTÁVIO KELLY",
+        "addressComplement": "- lado ímpar",
+        "addressNumber": 43,
+        "city": 1,
+        "country": 1,
+        "state": 1
+      },
+      "id": 15
+    },
+    {
+      "_schema": {
+        "_schema": {
+          "birthCity": {
+            "type": "integer",
+            "apiField": "birth_city"
+          },
+          "birthCountry": {
+            "type": "integer",
+            "apiField": "birth_country"
+          },
+          "birthState": {
+            "type": "integer",
+            "apiField": "birth_state"
+          },
+          "homeAddress": {
+            "type": "integer",
+            "apiField": "home_address"
+          },
+          "birthDate": {
+            "type": "date",
+            "apiField": "birth_date"
+          },
+          "cpfCnpj": {
+            "type": "string",
+            "apiField": "cpf_cnpj"
+          },
+          "fatherName": {
+            "type": "string",
+            "apiField": "father_name"
+          },
+          "fullName": {
+            "type": "string",
+            "apiField": "full_name"
+          },
+          "isFatherUnknown": {
+            "type": "string",
+            "apiField": "is_father_unknown"
+          },
+          "mailingAddressType": {
+            "type": "string",
+            "apiField": "mailing_address_type"
+          },
+          "maritalStatus": {
+            "type": "string",
+            "apiField": "marital_status"
+          },
+          "maritalName": {
+            "type": "string",
+            "apiField": "marital_name"
+          },
+          "nationality": {
+            "type": "string",
+            "apiField": "nationality"
+          },
+          "nationalityOther": {
+            "type": "string",
+            "apiField": "nationality_other"
+          },
+          "partnerName": {
+            "type": "string",
+            "apiField": "partner_name"
+          },
+          "sex": {
+            "type": "string",
+            "apiField": "sex"
+          }
+        }
+      },
+      "_service": null,
+      "professionalOccupation": 2,
+      "homeAddress": {
+        "_schema": {
+          "_schema": {
+            "id": {
+              "type": "integer",
+              "apiField": "id"
+            },
+            "address": {
+              "type": "string",
+              "apiField": "address"
+            },
+            "addressComplement": {
+              "type": "string",
+              "apiField": "address_complement"
+            },
+            "addressNumber": {
+              "type": "string",
+              "apiField": "address_number"
+            },
+            "city": {
+              "type": "string",
+              "apiField": "city"
+            },
+            "country": {
+              "type": "string",
+              "apiField": "country"
+            },
+            "neighborhood": {
+              "type": "string",
+              "apiField": "neighborhood"
+            },
+            "state": {
+              "type": "string",
+              "apiField": "state"
+            },
+            "zip_code": {
+              "type": "string",
+              "apiField": "zip_code"
+            }
+          }
+        },
+        "_service": null,
+        "_data": {
+          "address": "RUA MINISTRO OTÁVIO KELLY",
+          "address_complement": "- lado ímpar",
+          "address_number": 43,
+          "city": 1,
+          "country": 1,
+          "state": 1,
+          "id": 4
+        },
+        "id": 4,
+        "address": "RUA MINISTRO OTÁVIO KELLY",
+        "addressComplement": "- lado ímpar",
+        "addressNumber": 43,
+        "city": 1,
+        "country": 1,
+        "state": 1
+      },
+      "id": 16
+    },
+    {
+      "_schema": {
+        "_schema": {
+          "birthCity": {
+            "type": "integer",
+            "apiField": "birth_city"
+          },
+          "birthCountry": {
+            "type": "integer",
+            "apiField": "birth_country"
+          },
+          "birthState": {
+            "type": "integer",
+            "apiField": "birth_state"
+          },
+          "homeAddress": {
+            "type": "integer",
+            "apiField": "home_address"
+          },
+          "birthDate": {
+            "type": "date",
+            "apiField": "birth_date"
+          },
+          "cpfCnpj": {
+            "type": "string",
+            "apiField": "cpf_cnpj"
+          },
+          "fatherName": {
+            "type": "string",
+            "apiField": "father_name"
+          },
+          "fullName": {
+            "type": "string",
+            "apiField": "full_name"
+          },
+          "isFatherUnknown": {
+            "type": "string",
+            "apiField": "is_father_unknown"
+          },
+          "mailingAddressType": {
+            "type": "string",
+            "apiField": "mailing_address_type"
+          },
+          "maritalStatus": {
+            "type": "string",
+            "apiField": "marital_status"
+          },
+          "maritalName": {
+            "type": "string",
+            "apiField": "marital_name"
+          },
+          "nationality": {
+            "type": "string",
+            "apiField": "nationality"
+          },
+          "nationalityOther": {
+            "type": "string",
+            "apiField": "nationality_other"
+          },
+          "partnerName": {
+            "type": "string",
+            "apiField": "partner_name"
+          },
+          "sex": {
+            "type": "string",
+            "apiField": "sex"
+          }
+        }
+      },
+      "_service": null,
+      "professionalOccupation": 1,
+      "homeAddress": {
+        "_schema": {
+          "_schema": {
+            "id": {
+              "type": "integer",
+              "apiField": "id"
+            },
+            "address": {
+              "type": "string",
+              "apiField": "address"
+            },
+            "addressComplement": {
+              "type": "string",
+              "apiField": "address_complement"
+            },
+            "addressNumber": {
+              "type": "string",
+              "apiField": "address_number"
+            },
+            "city": {
+              "type": "string",
+              "apiField": "city"
+            },
+            "country": {
+              "type": "string",
+              "apiField": "country"
+            },
+            "neighborhood": {
+              "type": "string",
+              "apiField": "neighborhood"
+            },
+            "state": {
+              "type": "string",
+              "apiField": "state"
+            },
+            "zip_code": {
+              "type": "string",
+              "apiField": "zip_code"
+            }
+          }
+        },
+        "_service": null,
+        "_data": {
+          "address": "RUA MINISTRO OTÁVIO KELLY",
+          "address_complement": "- lado ímpar",
+          "address_number": 43,
+          "city": 1,
+          "country": 1,
+          "state": 1,
+          "id": 5
+        },
+        "id": 5,
+        "address": "RUA MINISTRO OTÁVIO KELLY",
+        "addressComplement": "- lado ímpar",
+        "addressNumber": 43,
+        "city": 1,
+        "country": 1,
+        "state": 1
+      },
+      "id": 17
+    },
+    {
+      "_schema": {
+        "_schema": {
+          "birthCity": {
+            "type": "integer",
+            "apiField": "birth_city"
+          },
+          "birthCountry": {
+            "type": "integer",
+            "apiField": "birth_country"
+          },
+          "birthState": {
+            "type": "integer",
+            "apiField": "birth_state"
+          },
+          "homeAddress": {
+            "type": "integer",
+            "apiField": "home_address"
+          },
+          "birthDate": {
+            "type": "date",
+            "apiField": "birth_date"
+          },
+          "cpfCnpj": {
+            "type": "string",
+            "apiField": "cpf_cnpj"
+          },
+          "fatherName": {
+            "type": "string",
+            "apiField": "father_name"
+          },
+          "fullName": {
+            "type": "string",
+            "apiField": "full_name"
+          },
+          "isFatherUnknown": {
+            "type": "string",
+            "apiField": "is_father_unknown"
+          },
+          "mailingAddressType": {
+            "type": "string",
+            "apiField": "mailing_address_type"
+          },
+          "maritalStatus": {
+            "type": "string",
+            "apiField": "marital_status"
+          },
+          "maritalName": {
+            "type": "string",
+            "apiField": "marital_name"
+          },
+          "nationality": {
+            "type": "string",
+            "apiField": "nationality"
+          },
+          "nationalityOther": {
+            "type": "string",
+            "apiField": "nationality_other"
+          },
+          "partnerName": {
+            "type": "string",
+            "apiField": "partner_name"
+          },
+          "sex": {
+            "type": "string",
+            "apiField": "sex"
+          }
+        }
+      },
+      "_service": null,
+      "professionalOccupation": 2,
+      "homeAddress": {
+        "_schema": {
+          "_schema": {
+            "id": {
+              "type": "integer",
+              "apiField": "id"
+            },
+            "address": {
+              "type": "string",
+              "apiField": "address"
+            },
+            "addressComplement": {
+              "type": "string",
+              "apiField": "address_complement"
+            },
+            "addressNumber": {
+              "type": "string",
+              "apiField": "address_number"
+            },
+            "city": {
+              "type": "string",
+              "apiField": "city"
+            },
+            "country": {
+              "type": "string",
+              "apiField": "country"
+            },
+            "neighborhood": {
+              "type": "string",
+              "apiField": "neighborhood"
+            },
+            "state": {
+              "type": "string",
+              "apiField": "state"
+            },
+            "zip_code": {
+              "type": "string",
+              "apiField": "zip_code"
+            }
+          }
+        },
+        "_service": null,
+        "_data": {
+          "address": "RUA MINISTRO OTÁVIO KELLY",
+          "address_complement": "- lado ímpar",
+          "address_number": 43,
+          "city": 1,
+          "country": 1,
+          "state": 1,
+          "id": 6
+        },
+        "id": 6,
+        "address": "RUA MINISTRO OTÁVIO KELLY",
+        "addressComplement": "- lado ímpar",
+        "addressNumber": 43,
+        "city": 1,
+        "country": 1,
+        "state": 1
+      },
+      "id": 18
+    },
+    {
+      "birth_country": 1,
+      "birth_state": 1,
+      "birth_date": "2016-05-02",
+      "cpf_cnpj": "123.123.123-12",
+      "father_name": "asdasd",
+      "full_name": "asdasd",
+      "marital_status": 3,
+      "sex": "male",
+      "id": 19
+    },
+    {
+      "_schema": {
+        "_schema": {
+          "birthCity": {
+            "type": "integer",
+            "apiField": "birth_city"
+          },
+          "birthCountry": {
+            "type": "integer",
+            "apiField": "birth_country"
+          },
+          "birthState": {
+            "type": "integer",
+            "apiField": "birth_state"
+          },
+          "homeAddress": {
+            "type": "integer",
+            "apiField": "home_address"
+          },
+          "birthDate": {
+            "type": "date",
+            "apiField": "birth_date"
+          },
+          "cpfCnpj": {
+            "type": "string",
+            "apiField": "cpf_cnpj"
+          },
+          "fatherName": {
+            "type": "string",
+            "apiField": "father_name"
+          },
+          "fullName": {
+            "type": "string",
+            "apiField": "full_name"
+          },
+          "isFatherUnknown": {
+            "type": "string",
+            "apiField": "is_father_unknown"
+          },
+          "mailingAddressType": {
+            "type": "string",
+            "apiField": "mailing_address_type"
+          },
+          "maritalStatus": {
+            "type": "string",
+            "apiField": "marital_status"
+          },
+          "maritalName": {
+            "type": "string",
+            "apiField": "marital_name"
+          },
+          "nationality": {
+            "type": "string",
+            "apiField": "nationality"
+          },
+          "nationalityOther": {
+            "type": "string",
+            "apiField": "nationality_other"
+          },
+          "partnerName": {
+            "type": "string",
+            "apiField": "partner_name"
+          },
+          "sex": {
+            "type": "string",
+            "apiField": "sex"
+          }
+        }
+      },
+      "_service": null,
+      "fullName": "asdasd",
+      "birthCountry": 1,
+      "birthState": 1,
+      "sex": "male",
+      "birthDate": "02/05/2016",
+      "maritalStatus": 3,
+      "fatherName": "asdasd",
+      "motherName": "asdasd",
+      "phone": "(12) 3123-1232",
+      "mobilePhone": "(12) 31231-2312",
+      "cpfCnpj": "123.123.123-12",
+      "emissionDate": "03/05/2016",
+      "professionalOccupation": 1,
+      "homeAddress": {
+        "_schema": {
+          "_schema": {
+            "id": {
+              "type": "integer",
+              "apiField": "id"
+            },
+            "address": {
+              "type": "string",
+              "apiField": "address"
+            },
+            "addressComplement": {
+              "type": "string",
+              "apiField": "address_complement"
+            },
+            "addressNumber": {
+              "type": "string",
+              "apiField": "address_number"
+            },
+            "city": {
+              "type": "string",
+              "apiField": "city"
+            },
+            "country": {
+              "type": "string",
+              "apiField": "country"
+            },
+            "neighborhood": {
+              "type": "string",
+              "apiField": "neighborhood"
+            },
+            "state": {
+              "type": "string",
+              "apiField": "state"
+            },
+            "zip_code": {
+              "type": "string",
+              "apiField": "zip_code"
+            }
+          }
+        },
+        "_service": null,
+        "_data": {
+          "address": "RUA MINISTRO OTÁVIO KELLY",
+          "address_complement": "- lado ímpar",
+          "address_number": 43,
+          "city": 1,
+          "country": 1,
+          "state": 1,
+          "id": 7
+        },
+        "id": 7,
+        "address": "RUA MINISTRO OTÁVIO KELLY",
+        "addressComplement": "- lado ímpar",
+        "addressNumber": 43,
+        "city": 1,
+        "country": 1,
+        "state": 1
+      },
+      "id": 20
+    },
+    {
+      "birth_country": 1,
+      "birth_date": "2016-05-03",
+      "cpf_cnpj": "123.123.123-12",
+      "father_name": "",
+      "full_name": "asd",
+      "is_father_unknown": true,
+      "marital_status": 3,
+      "nationality_other": true,
+      "sex": "male",
+      "id": 21
+    },
+    {
+      "_schema": {
+        "_schema": {
+          "birthCity": {
+            "type": "integer",
+            "apiField": "birth_city"
+          },
+          "birthCountry": {
+            "type": "integer",
+            "apiField": "birth_country"
+          },
+          "birthState": {
+            "type": "integer",
+            "apiField": "birth_state"
+          },
+          "homeAddress": {
+            "type": "integer",
+            "apiField": "home_address"
+          },
+          "birthDate": {
+            "type": "date",
+            "apiField": "birth_date"
+          },
+          "cpfCnpj": {
+            "type": "string",
+            "apiField": "cpf_cnpj"
+          },
+          "fatherName": {
+            "type": "string",
+            "apiField": "father_name"
+          },
+          "fullName": {
+            "type": "string",
+            "apiField": "full_name"
+          },
+          "isFatherUnknown": {
+            "type": "string",
+            "apiField": "is_father_unknown"
+          },
+          "mailingAddressType": {
+            "type": "string",
+            "apiField": "mailing_address_type"
+          },
+          "maritalStatus": {
+            "type": "string",
+            "apiField": "marital_status"
+          },
+          "maritalName": {
+            "type": "string",
+            "apiField": "marital_name"
+          },
+          "nationality": {
+            "type": "string",
+            "apiField": "nationality"
+          },
+          "nationalityOther": {
+            "type": "string",
+            "apiField": "nationality_other"
+          },
+          "partnerName": {
+            "type": "string",
+            "apiField": "partner_name"
+          },
+          "sex": {
+            "type": "string",
+            "apiField": "sex"
+          }
+        }
+      },
+      "_service": null,
+      "nationalityOther": true,
+      "fullName": "asd",
+      "birthCountry": 1,
+      "sex": "male",
+      "birthDate": "03/05/2016",
+      "maritalStatus": 3,
+      "isFatherUnknown": true,
+      "fatherName": "",
+      "motherName": "asdasd",
+      "phone": "(12) 3123-1231",
+      "mobilePhone": "(12) 31231-2312",
+      "cpfCnpj": "123.123.123-12",
+      "emissionDate": "04/05/2016",
+      "professionalOccupation": 2,
+      "homeAddress": {
+        "_schema": {
+          "_schema": {
+            "id": {
+              "type": "integer",
+              "apiField": "id"
+            },
+            "address": {
+              "type": "string",
+              "apiField": "address"
+            },
+            "addressComplement": {
+              "type": "string",
+              "apiField": "address_complement"
+            },
+            "addressNumber": {
+              "type": "string",
+              "apiField": "address_number"
+            },
+            "city": {
+              "type": "string",
+              "apiField": "city"
+            },
+            "country": {
+              "type": "string",
+              "apiField": "country"
+            },
+            "neighborhood": {
+              "type": "string",
+              "apiField": "neighborhood"
+            },
+            "state": {
+              "type": "string",
+              "apiField": "state"
+            },
+            "zip_code": {
+              "type": "string",
+              "apiField": "zip_code"
+            }
+          }
+        },
+        "_service": null,
+        "_data": {
+          "address": "RUA MINISTRO OTÁVIO KELLY",
+          "address_complement": "- lado ímpar",
+          "address_number": 43,
+          "city": 1,
+          "country": 1,
+          "state": 1,
+          "id": 8
+        },
+        "id": 8,
+        "address": "RUA MINISTRO OTÁVIO KELLY",
+        "addressComplement": "- lado ímpar",
+        "addressNumber": 43,
+        "city": 1,
+        "country": 1,
+        "state": 1
+      },
+      "id": 22
+    },
+    {
+      "birth_country": 1,
+      "birth_date": "2016-05-02",
+      "cpf_cnpj": "123.123.123-12",
+      "father_name": "",
+      "full_name": "asdasd",
+      "is_father_unknown": true,
+      "marital_status": 3,
+      "nationality_other": true,
+      "sex": "female",
+      "id": 23
+    },
+    {
+      "_schema": {
+        "_schema": {
+          "birthCity": {
+            "type": "integer",
+            "apiField": "birth_city"
+          },
+          "birthCountry": {
+            "type": "integer",
+            "apiField": "birth_country"
+          },
+          "birthState": {
+            "type": "integer",
+            "apiField": "birth_state"
+          },
+          "homeAddress": {
+            "type": "integer",
+            "apiField": "home_address"
+          },
+          "birthDate": {
+            "type": "date",
+            "apiField": "birth_date"
+          },
+          "cpfCnpj": {
+            "type": "string",
+            "apiField": "cpf_cnpj"
+          },
+          "fatherName": {
+            "type": "string",
+            "apiField": "father_name"
+          },
+          "fullName": {
+            "type": "string",
+            "apiField": "full_name"
+          },
+          "isFatherUnknown": {
+            "type": "string",
+            "apiField": "is_father_unknown"
+          },
+          "mailingAddressType": {
+            "type": "string",
+            "apiField": "mailing_address_type"
+          },
+          "maritalStatus": {
+            "type": "string",
+            "apiField": "marital_status"
+          },
+          "maritalName": {
+            "type": "string",
+            "apiField": "marital_name"
+          },
+          "nationality": {
+            "type": "string",
+            "apiField": "nationality"
+          },
+          "nationalityOther": {
+            "type": "string",
+            "apiField": "nationality_other"
+          },
+          "partnerName": {
+            "type": "string",
+            "apiField": "partner_name"
+          },
+          "sex": {
+            "type": "string",
+            "apiField": "sex"
+          }
+        }
+      },
+      "_service": null,
+      "nationalityOther": true,
+      "fullName": "asdasd",
+      "birthCountry": 1,
+      "sex": "female",
+      "birthDate": "02/05/2016",
+      "maritalStatus": 3,
+      "isFatherUnknown": true,
+      "fatherName": "",
+      "motherName": "asdasd",
+      "phone": "(12) 3123-1231",
+      "mobilePhone": "(12) 31231-2312",
+      "cpfCnpj": "123.123.123-12",
+      "emissionDate": "04/05/2016",
+      "professionalOccupation": 1,
+      "homeAddress": {
+        "_schema": {
+          "_schema": {
+            "id": {
+              "type": "integer",
+              "apiField": "id"
+            },
+            "address": {
+              "type": "string",
+              "apiField": "address"
+            },
+            "addressComplement": {
+              "type": "string",
+              "apiField": "address_complement"
+            },
+            "addressNumber": {
+              "type": "string",
+              "apiField": "address_number"
+            },
+            "city": {
+              "type": "string",
+              "apiField": "city"
+            },
+            "country": {
+              "type": "string",
+              "apiField": "country"
+            },
+            "neighborhood": {
+              "type": "string",
+              "apiField": "neighborhood"
+            },
+            "state": {
+              "type": "string",
+              "apiField": "state"
+            },
+            "zip_code": {
+              "type": "string",
+              "apiField": "zip_code"
+            }
+          }
+        },
+        "_service": null,
+        "_data": {
+          "address": "RUA MINISTRO OTÁVIO KELLY",
+          "address_complement": "- lado ímpar",
+          "address_number": 43,
+          "city": 1,
+          "country": 1,
+          "state": 1,
+          "id": 9
+        },
+        "id": 9,
+        "address": "RUA MINISTRO OTÁVIO KELLY",
+        "addressComplement": "- lado ímpar",
+        "addressNumber": 43,
+        "city": 1,
+        "country": 1,
+        "state": 1
+      },
+      "id": 24
     }
   ],
   "country": [
@@ -243,6 +1240,78 @@
       "neighborhood": "Villa Crespo",
       "state": "Ciudad Autonoma de Buenos Aires",
       "zip_code": "123.2323-300"
+    },
+    {
+      "address": "RUA MINISTRO OTÁVIO KELLY",
+      "address_complement": "- lado ímpar",
+      "address_number": 43,
+      "city": 1,
+      "country": 1,
+      "state": 1,
+      "id": 2
+    },
+    {
+      "address": "RUA MINISTRO OTÁVIO KELLY",
+      "address_complement": "- lado ímpar",
+      "address_number": 43,
+      "city": 1,
+      "country": 1,
+      "state": 1,
+      "id": 3
+    },
+    {
+      "address": "RUA MINISTRO OTÁVIO KELLY",
+      "address_complement": "- lado ímpar",
+      "address_number": 43,
+      "city": 1,
+      "country": 1,
+      "state": 1,
+      "id": 4
+    },
+    {
+      "address": "RUA MINISTRO OTÁVIO KELLY",
+      "address_complement": "- lado ímpar",
+      "address_number": 43,
+      "city": 1,
+      "country": 1,
+      "state": 1,
+      "id": 5
+    },
+    {
+      "address": "RUA MINISTRO OTÁVIO KELLY",
+      "address_complement": "- lado ímpar",
+      "address_number": 43,
+      "city": 1,
+      "country": 1,
+      "state": 1,
+      "id": 6
+    },
+    {
+      "address": "RUA MINISTRO OTÁVIO KELLY",
+      "address_complement": "- lado ímpar",
+      "address_number": 43,
+      "city": 1,
+      "country": 1,
+      "state": 1,
+      "id": 7
+    },
+    {
+      "address": "RUA MINISTRO OTÁVIO KELLY",
+      "address_complement": "- lado ímpar",
+      "address_number": 43,
+      "city": 1,
+      "country": 1,
+      "state": 1,
+      "id": 8
+    },
+    {
+      "address": "RUA MINISTRO OTÁVIO KELLY",
+      "address_complement": "- lado ímpar",
+      "address_number": 43,
+      "city": 1,
+      "country": 1,
+      "state": 1,
+      "id": 9
     }
   ],
   "identification-document-data": [
@@ -272,6 +1341,54 @@
       },
       "document_number": 123,
       "id": 2
+    },
+    {
+      "identification_document_issuer": "detran",
+      "identification_document_type": "professional_id",
+      "person": {
+        "birth_country": 1,
+        "birth_state": 1,
+        "birth_date": "2016-05-02",
+        "cpf_cnpj": "123.123.123-12",
+        "father_name": "asdasd",
+        "full_name": "asdasd",
+        "marital_status": 3,
+        "sex": "male"
+      },
+      "document_number": 123,
+      "id": 3
+    },
+    {
+      "identification_document_issuer": "ifp",
+      "identification_document_type": "professional_id",
+      "person": {
+        "birth_country": 1,
+        "birth_date": "2016-05-03",
+        "cpf_cnpj": "123.123.123-12",
+        "full_name": "asd",
+        "is_father_unknown": true,
+        "marital_status": 3,
+        "nationality_other": true,
+        "sex": "male"
+      },
+      "document_number": 123,
+      "id": 4
+    },
+    {
+      "identification_document_issuer": "detran",
+      "identification_document_type": "professional_id",
+      "person": {
+        "birth_country": 1,
+        "birth_date": "2016-05-02",
+        "cpf_cnpj": "123.123.123-12",
+        "full_name": "asdasd",
+        "is_father_unknown": true,
+        "marital_status": 3,
+        "nationality_other": true,
+        "sex": "female"
+      },
+      "document_number": 123,
+      "id": 5
     }
   ],
   "identification-document-issuer": [
@@ -309,8 +1426,77 @@
       "weight": 1
     }
   ],
+  "professional-data": [
+    {
+      "id": 1,
+      "person": 1,
+      "professional_occupation": 1,
+      "has_no_current_professional_association": false,
+      "work_company_name": "Orama"
+    },
+    {
+      "person": {
+        "home_address": null
+      },
+      "work_company_name": "asdasd",
+      "id": 2
+    },
+    {
+      "person": {
+        "home_address": null
+      },
+      "work_company_name": "asd",
+      "id": 3
+    },
+    {
+      "person": {
+        "birth_country": 1,
+        "birth_state": 1,
+        "home_address": null,
+        "birth_date": "2002-05-20",
+        "cpf_cnpj": "123.123.123-12",
+        "father_name": "asdasd",
+        "full_name": "asdasd",
+        "marital_status": 3,
+        "sex": "male"
+      },
+      "work_company_name": "asdasd",
+      "id": 4
+    },
+    {
+      "person": {
+        "birth_country": 1,
+        "home_address": null,
+        "birth_date": "2003-05-20",
+        "cpf_cnpj": "123.123.123-12",
+        "full_name": "asd",
+        "is_father_unknown": true,
+        "marital_status": 3,
+        "nationality_other": true,
+        "sex": "male"
+      },
+      "work_company_name": "asd",
+      "id": 5
+    },
+    {
+      "person": {
+        "birth_country": 1,
+        "home_address": null,
+        "birth_date": "2002-05-20",
+        "cpf_cnpj": "123.123.123-12",
+        "full_name": "asdasd",
+        "is_father_unknown": true,
+        "marital_status": 3,
+        "nationality_other": true,
+        "sex": "female"
+      },
+      "work_company_name": "asd",
+      "id": 6
+    }
+  ],
   "get-address": [
     {
+      "id": 24220300,
       "street": "RUA MINISTRO OTÁVIO KELLY",
       "number": "43",
       "complement": "- lado ímpar",
