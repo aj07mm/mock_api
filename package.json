@@ -1,17 +1,21 @@
 {
-  "name": "orama_mock_api",
+  "name": "mock_api",
   "version": "1.0.0",
-  "description": "",
+  "description": "json-server --watch db.json --port 8888",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@git.orama.com.br:jmarins/orama-mock-api.git"
+    "url": "git+https://github.com/aj07mm/mock_api.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aj07mm/mock_api/issues"
+  },
+  "homepage": "https://github.com/aj07mm/mock_api#readme",
   "dependencies": {
     "json-server": "^0.8.10"
   }
