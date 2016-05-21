@@ -11,8 +11,5 @@
   "bugs": {
     "url": "https://github.com/aj07mm/mock_api/issues"
   },
-  "homepage": "https://github.com/aj07mm/mock_api#readme",
-  "dependencies": {
-    "json-server": "^0.8.10"
-  }
+  "homepage": "https://github.com/aj07mm/mock_api#readme"
 }
